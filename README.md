@@ -1,5 +1,4 @@
 # Active Record Exercises
-
 ## Introduction
 
 You'll find that this project has two Active Record "models" (classes):
